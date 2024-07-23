@@ -1,5 +1,6 @@
 # 민감한 개인정보
 password.txt
+API_key.txt
 
 # 개발 중에 자동으로 생성되는 파일들도 마찬가지로 관리할 필요가 없다!
 __pychache__/
